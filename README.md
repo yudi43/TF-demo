@@ -1,2 +1,2 @@
 # TF-demo
-Text recognition using TF and OpenCV
+Basic implementation of text recognition using TF and OpenCV
